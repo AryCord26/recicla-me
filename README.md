@@ -35,8 +35,7 @@ ReciclaMe é um aplicativo mobile desenvolvido em **React Native** com **Expo**,
 
 Você pode testar o aplicativo diretamente no navegador ou em dispositivos móveis usando o Expo Snack:
 
-Link do Snack: COLE AQUI O LINK DO SNACK
-
+Link do Snack: (https://snack.expo.dev/@arycord/recicla-me)
 ## 📄 Estrutura do projeto
 
 recicla-me/
