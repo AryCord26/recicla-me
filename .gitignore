@@ -1,0 +1,39 @@
+# Node modules
+/node_modules
+/.expo
+/.expo-shared
+
+# Expo
+dist/
+web-build/
+.expo/
+.expo-shared/
+
+# Build outputs
+/android
+/ios
+/build
+.expo-dev
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+expo-error.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# VSCode
+.vscode/
+
+# Cache
+.expo/*
+.expo-shared/*
+.cache
